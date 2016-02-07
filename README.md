@@ -1,3 +1,6 @@
+# webpack-starter-kit [![Build Status](https://travis-ci.org/WJsjtu/webpack-starter-kit.svg?branch=master)](https://travis-ci.org/WJsjtu/webpack-starter-kit)
+A Webpack Starter Kit.
+
 Copyright (c) 2016 Jason Wang, contributors
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
